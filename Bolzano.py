@@ -55,7 +55,7 @@ def bolzano(a, b, n):
     return
 
 
-# driver cod
+# driver code
 
 # batas atas, batas bawah, dan jumlah iterasi
 print("Implementasi metode bolzano untuk mencari akar persamaan f(x) = e^x - x - 2 dengan x0=0 dan x1=3, sebanyak 10 iterasi")
