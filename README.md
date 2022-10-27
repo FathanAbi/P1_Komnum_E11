@@ -5,12 +5,15 @@ Kelompok 11
 1. Fathan Abi Karami      (5025211156)
 2. Vito Febrian Ananta    (5025211224)
 
+Praktikum ini merupakan implementasi metode bolzano dengan program python.
+Program ini menggunakan library numpy sebagai bantuan untuk alajbar dan library matplotlib sebagai bantuan untuk memploting fungsi.
+Fungsi akar persamaan yang akan dicari tertulis secara hard-coded dalam program. Sementara itu, user akan menginput nilai x0, xi dan banyaknya iterasi yang diinginkan.
+Output dari program ini merupakan akar persamaan melalui pendekatan metode Bolzano dengan adanya grafik fungsi pada tiap iterasinya.
 
-![Screenshot 2022-10-25 184950](https://user-images.githubusercontent.com/90834092/197765908-9a019419-7bed-4bf9-a737-81ea4d35087c.png)
+![ss0](https://user-images.githubusercontent.com/115033527/198191435-2fadcdc9-8720-4471-8c23-db7940cc6c4c.png)
 
 
-Hasil pengerjaan praktikum berupa menentukan akan persamaan suatu fungsi dengan mengimplementasikan metode bolzano menggunakan bahasa pemrograman python.
-Output program berupa perkiraan akar suatu persamaan disertai dengan grafik fungsinya pada tiap iterasinya.
+![ss1](https://user-images.githubusercontent.com/115033527/198191447-68b70777-7a5c-48db-b298-68d317857f80.png)
 
-
+![ss2](https://user-images.githubusercontent.com/115033527/198191455-557edfd4-9850-447d-adbf-9fbf8d5fe440.png)
 
